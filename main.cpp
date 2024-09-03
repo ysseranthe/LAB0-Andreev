@@ -2,5 +2,6 @@
 
 int main() {
     std::cout << "Hello World!";
-    return 1;
+    int n;
+    std::cin >> n;
 }
